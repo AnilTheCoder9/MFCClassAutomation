@@ -1,0 +1,2 @@
+# MFCClassAutomation
+MFC example
